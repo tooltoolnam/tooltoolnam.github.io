@@ -1,6 +1,7 @@
 const APP_LIST = [
     { name: "Life Clock", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.life_clock" },
     { name: "AI Fortune Teller", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.fortune_ai" },
+    { name: "Color Snap", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.color_snap" },
     { name: "Today Calendar", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.todaycalender" },
     { name: "Split PDF Easy", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.split_pdf_easy" },
     { name: "Power Unit Converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.k_kw_converter" },
