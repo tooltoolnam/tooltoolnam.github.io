@@ -3,6 +3,7 @@ const APP_LIST = [
     { name: "AI Fortune Teller", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.fortune_ai" },
     { name: "Color Snap", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.color_snap" },
     { name: "Today Calendar", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.todaycalender" },
+    { name: "Cutout Background Remover", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.cutout_bg_remover" },
     { name: "Split PDF Easy", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.split_pdf_easy" },
     { name: "Power Unit Converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.k_kw_converter" },
     { name: "Pixel Inch cm", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.inch_cm_converter" },
