@@ -6,6 +6,7 @@ const APP_LIST = [
     { name: "Cutout Background Remover", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.cutout_bg_remover" },
     { name: "Split PDF Easy", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.split_pdf_easy" },
     { name: "Vibration Tester", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.vibration_tester" },
+    { name: "Ruler & Measure", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.ruler_measure" },
     { name: "Age Difference Calculator", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.age_diff_calculator" },
     { name: "Power Unit Converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.k_kw_converter" },
     { name: "Pixel Inch cm", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.inch_cm_converter" },
