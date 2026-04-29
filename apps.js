@@ -51,5 +51,10 @@ const APP_LIST = [
     { name: "Paper Size Converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.paper_size_converter" },
     { name: "Resistor Color Code", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.resistor_color_code" },
     { name: "Tip Calculator", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.tip_calculator" },
+    { name: "Daily Fortune", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.daily_fortune" },
+    { name: "Flip Clock", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.flip_clock" },
+    { name: "Night Clock", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.night_clock" },
+    { name: "Past Life Job", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.past_life_job" },
+    { name: "Retirement Clock", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.retirement_clock" },
     // { name: "japan won converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.japan_won_converter" },
 ];
