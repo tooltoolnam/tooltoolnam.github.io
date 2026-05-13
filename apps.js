@@ -57,5 +57,10 @@ const APP_LIST = [
     { name: "Past Life Job", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.past_life_job" },
     { name: "Retirement Clock", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.retirement_clock" },
     { name: "Decision Wheel", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.decision_wheel" },
+    { name: "Compass", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.compass" },
+    { name: "Instrument Tuner", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.instrument_tuner" },
+    { name: "MBTI Compatibility", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.mbti_compatibility" },
+    { name: "Magnetometer", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.magnetometer" },
+    { name: "Daily Tarot Card", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.tarot_daily" },
     // { name: "japan won converter", url: "https://play.google.com/store/apps/details?id=com.tooltoolnam.japan_won_converter" },
 ];
